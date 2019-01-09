@@ -1,6 +1,6 @@
 # serialport: segfault test report
 
-Cannot open a port anymore with [serialport](https://www.npmjs.com/package/serialport) :(
+Cannot open a port anymore with [serialport](https://www.npmjs.com/package/serialport) => **a segmentation fault occurs!!!** :(
 
 ## Steps to reproduce
 
