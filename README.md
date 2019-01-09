@@ -1,4 +1,6 @@
-# segfault test report
+# serialport: segfault test report
+
+Cannot open a port anymore with [serialport](https://www.npmjs.com/package/serialport) :(
 
 ## Steps to reproduce
 
